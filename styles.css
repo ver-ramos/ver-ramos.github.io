@@ -490,6 +490,7 @@ h2 { font-size: clamp(1.8rem, 3.4vw, 2.5rem); margin-bottom: 14px; }
 
 /* AI tools */
 .ai-head { margin-top: 26px; }
+.ai-note { margin: -8px 0 16px; color: var(--muted); font-size: .9rem; max-width: 62ch; }
 .ai-tools b { color: var(--orange); }
 .ai-tools li:hover { border-color: var(--orange); }
 .ai-tools li:hover b { background: var(--orange); color: var(--ink); }
